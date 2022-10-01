@@ -1,3 +1,1 @@
-export function aaa(){
-  
-} 
+export function aaa() {}
